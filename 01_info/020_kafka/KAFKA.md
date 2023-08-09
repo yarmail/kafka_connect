@@ -75,5 +75,5 @@ is org.apache.zookeeper.metrics.impl.DefaultMetricsProvider
 Как я понимаю прерывается работа этих приложений с помощью CTRL+C в каждом окне.<br>
 Не выключайте приложения, пока запускаете проект<br>
 
-Картинка 1. Как выглядят запущенные приложения
-<img alt="" src="C:\projects\kafka_connect\01_info\020_kafka\result.png"/> 
+Как выглядят запущенные приложения
+<img alt="" src="result.png"/> 

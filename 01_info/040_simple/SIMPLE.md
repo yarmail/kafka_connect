@@ -44,5 +44,5 @@ src/main/java/com/example/kafka_connect/service/SimpleMsgListenerConsumer.java<b
 конфигурационный файл: <br>
 src/main/java/com/example/kafka_connect/config/LongMsgConfigProducer.java <br>
 взять оттуда соответсвенно другой бин: <br>
-KafkaTemplate<Long, String> longKafkaTemplate() <br> 
+longKafkaTemplate() <br> 
 и использовать его в контроллере. <br>

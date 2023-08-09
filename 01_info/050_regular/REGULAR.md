@@ -7,7 +7,6 @@
 
 Порядок запуска (как и в простом случае):<br>
 ~ запускаем связку приложений ZooKeeper и Kafka c помощью start.bat<br>
-(см предыдущие части)<br>
 ~ запускаем приложение<br>
 src/main/java/com/example/kafka_connect/KafkaConnectApplication.java<br>
 ~ запускаем Postman<br><br>
