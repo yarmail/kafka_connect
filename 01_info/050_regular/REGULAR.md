@@ -20,7 +20,7 @@ key:`age` value: `15`<br>
 Запрос прошёл - Status 200 Ok
 <details>
 <summary>Картинка запроса</summary>
-<img src="postman.png" alt="">
+<img src="postman.png" alt="" />
 </details> <br>
 
 Описание схемы прохождения запроса (user). <br>
@@ -29,7 +29,7 @@ key:`age` value: `15`<br>
 ~ для этого запроса используется файл конфигурации специально для User<br>
 src/main/java/com/example/kafka_connect/config/UserMsgConfigProducer.java<br>
 в котором мы описываем шаблон сообщения (бин)<br>
-userKafkaTemplate() <br> <br>
+userKafkaTemplate() <br>
 который мы внедрим в следующий контроллер. <br>
 ~ далее запрос и принимается и обрабатывается и отпраляется контроллером <br>
 src/main/java/com/example/kafka_connect/controller/UserMsgControllerProducer.java <br>
@@ -39,7 +39,7 @@ src/main/java/com/example/kafka_connect/service/UserMsgListenerConsumer.java<br>
 который, выводит его в консоль
 <details>
 <summary>Результат работы Поставщика и Потребителя в консоли</summary>
-<img src="console.png" alt="">
+<img src="console.png" alt=""/>
 </details> <br><br>
 
 Примечание<br> 

@@ -17,7 +17,7 @@ key:`msg` value: `Hello, world`<br>
 Запрос прошёл - Status 200 Ok
 <details>
 <summary>Картинка запроса</summary>
-<img src="postman.png" alt="">
+<img src="postman.png" alt="" />
 </details> <br>
 
 Описание схемы прохождения запроса (simple). <br>
@@ -36,7 +36,7 @@ src/main/java/com/example/kafka_connect/service/SimpleMsgListenerConsumer.java<b
 который, для примера, выводит его в консоль
 <details>
 <summary>Результат работы Consumer</summary>
-<img src="console.png" alt="">
+<img src="console.png" alt="" />
 </details> <br><br>
 
 Примечание: <br>
