@@ -43,6 +43,6 @@ src/main/java/com/example/kafka_connect/service/SimpleMsgListenerConsumer.java<b
 Если вы хотите чтобы тип id был не String а Long вы можете использовать другой<br> 
 конфигурационный файл: <br>
 src/main/java/com/example/kafka_connect/config/LongMsgConfigProducer.java <br>
-взять оттуда соответсвенно другой бин: <br>
+взять оттуда соответственно другой бин: <br>
 longKafkaTemplate() <br> 
 и использовать его в контроллере. <br>

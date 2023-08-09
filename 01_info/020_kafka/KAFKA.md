@@ -76,4 +76,4 @@ is org.apache.zookeeper.metrics.impl.DefaultMetricsProvider
 Не выключайте приложения, пока запускаете проект<br>
 
 Как выглядят запущенные приложения
-<img alt="" src="result.png"/> 
+<img src="result.png" alt="" /> 
